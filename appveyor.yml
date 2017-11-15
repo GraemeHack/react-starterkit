@@ -19,5 +19,5 @@ test_script:
     # run tests
     -npm test
 
-# Don't actualy build.
+# Don't actually build.
 build: off
