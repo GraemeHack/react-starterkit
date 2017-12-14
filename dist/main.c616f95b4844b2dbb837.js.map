@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/index.ts"],"names":["Set"],"mappings":"+CAEgB,IAAUA","file":"main.c616f95b4844b2dbb837.js","sourcesContent":["const test = () => 2 + 1;\n\nconst setTest = new Set();\n\n\n// WEBPACK FOOTER //\n// ./src/index.ts"],"sourceRoot":""}
